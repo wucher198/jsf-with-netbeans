@@ -1,0 +1,7 @@
+/jsfapp/nbproject/private/
+/jsfapp/build/
+
+*/nbproject/*
+*/build/*
+
+build.xml
